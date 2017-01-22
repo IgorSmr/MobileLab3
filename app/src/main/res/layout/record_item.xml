@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:id="@+id/cv">
+
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent"
+            android:layout_height="match_parent" android:layout_weight="0">
+
+            <TextView android:text="@string/category" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/textView"
+                android:layout_weight="0" />
+
+            <TextView android:id="@+id/text_ref_category" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:layout_weight="0"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:text="@string/time_start" android:layout_weight="0" />
+
+            <TextView android:id="@+id/text_time_start" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:layout_weight="0"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:text="@string/time_end" android:layout_weight="0" />
+
+            <TextView android:id="@+id/text_time_end" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:layout_weight="0"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:text="@string/time" android:layout_weight="0" />
+
+            <TextView android:id="@+id/text_time" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:layout_weight="0"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:text="@string/date" android:layout_weight="0" />
+
+            <TextView android:id="@+id/text_date" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:layout_weight="0"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

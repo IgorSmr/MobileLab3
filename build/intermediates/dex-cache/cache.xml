@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2">
+
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_fb5b153c1ddac2d2bde8eee056cc02e7c821b556.jar" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_c9942f6362b7962ce8bd4f9f537c65c39aa6e7f2\classes.dex" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_c351770f0b7cf430d21e93749e92e7f42a820f3f.jar" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_fd200820bb192437dd661a9bc192e7ba57ed2b80\classes.dex" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_193d60f004bbd8639d668e33684bcb4a1835e377\classes.dex" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6ee894e158b392c05af7d37bbfa4dc73c651106e\classes.dex" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_0358d5217a5198999cca73cc0dbf7cecf8cdeccc\classes.dex" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_f23ef3ca0b7db466b31e263e6b83288ca3bf94d0.jar" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_57f6701ed492fa688415f9083178554aa0c46697.jar" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_d165b830ef241463ba48037b102df0dea6e42812\classes.dex" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_2c7ec766c63cb61d43502ccfb8baa4e5f1ee83d4\classes.dex" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_970438c32168e841c616088fa9c8bd076ae2fe90\classes.dex" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_77b99a7108f8cf9d4a9f3ff985320e806c1d4a77.jar" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_3369fbc2e9f690f00d6590607bd1f12f6c6b2e23.jar" />
+    </item>
+    <item is-multidex="true"
+        jar="C:\Users\Vladislav\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_9dd3ce4de48d050c0a0104d803de4d2c5542bc6c\classes.dex" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_493db465acf7f54cae8874490d39abe88678525e\classes.dex" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_46c96f31f82e83e222d86c2ca3211f42ac4c4457\classes.dex" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="2a5deb95537c5c3c8ed1abe809c6f497569a20c7">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5e51fa27de874893b250f7d86345b2e663bc7dd4\classes.dex" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="fff9c2a7a942a7fc5ef6de833135b3d805af893d">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_cc81b7aef7bcc2e3942835fecf4f70df7caddc1b.jar" />
+    </item>
+    <item is-multidex="false"
+        jar="C:\Users\Vladislav\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_9dd3ce4de48d050c0a0104d803de4d2c5542bc6c.jar" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_cf19f54c2d1460a8197c3b5eeae7cb438b2b1557.jar" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_563b8e0a232830e04d7f6d2eebc3e1b5a6469935\classes.dex" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_8e56a9c97760caf3ba459bf2c2cc3efe931def4f\classes.dex" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_daab6326a61d691ef6922b82ccb4e8d71de28b41.jar" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_adef2cb56f5cb6fff3e556db811e54f2ce8ab874.jar" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="f9b5f518a2da369110129b32c43739b7d91cdad5">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\instant-run_10e3f26bfbf13f93b30446f87f563a59f42c50bf.jar" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_5d11d4a523da8ab35721788910c98e647277ac19.jar" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_9f01e1fe941ae33f8b4dccb00bc21a0bff5a78ef\classes.dex" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_aa5854c0bb0c9cdacc257a4a90385cc5db834334\classes.dex" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="2f9038c2d97e8e737635607963ebddfe626aa330">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c05a45f93bfd50dab88cc14adc1fc0ffb4302a5c\classes.dex" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d42fa0f66ac49e6765181e0c5e217248c76693c2.jar" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_467ab34eb58010474869ad0ee272730e530e4fec.jar" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_c4b7355f2c62cf0086ea8e4faaa09a19204e8caf\classes.dex" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_bcd92be805a3959ad930dbfd993a4e941403f7b0.jar" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_677dba75c5e4ca37c1a3719c4243d726614e5d36\classes.dex" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_a1c41367f99b083c76a65c6c5bec837fb5206808.jar" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_be94801eeaef0a46cbe36145c22abecb445db4c7.jar" />
+    </item>
+    <item is-multidex="false"
+        jar="C:\Users\Vladislav\.gradle\caches\modules-2\files-2.1\org.achartengine\achartengine\1.2.0\6d3ad3a6c5fa442708f91f571496f429a382c466\achartengine-1.2.0.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="6d3ad3a6c5fa442708f91f571496f429a382c466">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\achartengine-1.2.0_f95c28a467b4a89b8425152694bfa4a15b55e4b9.jar" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_e29023ddd23c540c97920172c1566772e4306bcb\classes.dex" />
+    </item>
+    <item is-multidex="true"
+        jar="C:\Users\Vladislav\.gradle\caches\modules-2\files-2.1\org.achartengine\achartengine\1.2.0\6d3ad3a6c5fa442708f91f571496f429a382c466\achartengine-1.2.0.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="6d3ad3a6c5fa442708f91f571496f429a382c466">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\achartengine-1.2.0_f95c28a467b4a89b8425152694bfa4a15b55e4b9\classes.dex" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_0ee085262f90a145a01aa965a87f49f9e1c1777c.jar" />
+    </item>
+    <item is-multidex="true"
+        jar="D:\Develop\Android\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex
+            dex="D:\Develop\Android\MobileLab3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_eb9d2d5f5e016ea543e3ffcbca89eee41153c943\classes.dex" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_65c3c8e6aba155294b5254f30435b0cf35bce3bc.jar" />
+    </item>
+    <item is-multidex="false"
+        jar="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true" optimize="true" revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex
+            dex="D:\Develop\Android\olyanich\MobileLab3\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e31c1ae322ab57ddf086e432bc6302b07fc9a004.jar" />
+    </item>
+
+</items>
